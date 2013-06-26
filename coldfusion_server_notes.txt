@@ -1,0 +1,10 @@
+- starting coldfusion server:
+	- /Applications/ColdFusion10/cfusion/bin/coldfusion stop
+	- /Applications/ColdFusion10/cfusion/bin/coldfusion start
+
+- coldfusion wizard (localhost)
+	- localhost:8500
+		- localhost:8500/CFIDE/administrator/index.cfm
+
+- displaying mac. services (use terminal): type "ps aux" in terminal
+	- this is the equivalent to windows services
